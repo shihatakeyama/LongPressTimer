@@ -1,0 +1,2 @@
+# LongPressTimer
+QPushButtonの長押しを検出してシグナルを通知します。
